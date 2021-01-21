@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/20 09:13:56.000.266,=C:\Users\Dell G3\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 09:15:07.000.165,C:\Projetos\uMainForm.pas=C:\Users\Dell G3\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 09:15:07.000.165,C:\Projetos\uMainForm.dfm=C:\Users\Dell G3\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/01/20 09:15:34.000.730,C:\Projetos\DroneDeliveryService\DroneDeliveryService.dproj=C:\Users\Dell G3\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/01/20 09:17:07.000.427,C:\Projetos\DroneDeliveryService\uMainForm.pas=C:\Projetos\DroneDeliveryService\uMain.pas</Transaction>
+    <Transaction>2021/01/20 09:17:07.000.427,C:\Projetos\DroneDeliveryService\uMainForm.dfm=C:\Projetos\DroneDeliveryService\uMain.dfm</Transaction>
+    <Transaction>2021/01/20 09:27:48.000.459,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 09:27:55.000.155,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uClasses.pas</Transaction>
+    <Transaction>2021/01/20 13:23:23.000.877,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 13:23:57.000.953,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uDialog.pas</Transaction>
+    <Transaction>2021/01/20 13:23:57.000.953,C:\Projetos\DroneDeliveryService\Unit1.dfm=C:\Projetos\DroneDeliveryService\uDialog.dfm</Transaction>
+    <Transaction>2021/01/20 13:24:50.000.955,C:\Projetos\DroneDeliveryService\uDialog.dfm=C:\Projetos\DroneDeliveryService\uAddDialog.dfm</Transaction>
+    <Transaction>2021/01/20 13:24:50.000.955,C:\Projetos\DroneDeliveryService\uDialog.pas=C:\Projetos\DroneDeliveryService\uAddDialog.pas</Transaction>
+    <Transaction>2021/01/20 13:26:47.000.067,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 13:27:09.000.935,C:\Projetos\DroneDeliveryService\Unit1.dfm=C:\Projetos\DroneDeliveryService\uAddDrone.dfm</Transaction>
+    <Transaction>2021/01/20 13:27:09.000.935,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uAddDrone.pas</Transaction>
+    <Transaction>2021/01/20 13:41:39.000.111,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/20 13:42:15.000.779,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uAddLocation.pas</Transaction>
+    <Transaction>2021/01/20 13:42:15.000.779,C:\Projetos\DroneDeliveryService\Unit1.dfm=C:\Projetos\DroneDeliveryService\uAddLocation.dfm</Transaction>
+    <Transaction>2021/01/21 01:17:39.000.993,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/21 01:17:59.000.697,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uLoadMemo.pas</Transaction>
+    <Transaction>2021/01/21 01:17:59.000.697,C:\Projetos\DroneDeliveryService\Unit1.dfm=C:\Projetos\DroneDeliveryService\uLoadMemo.dfm</Transaction>
+    <Transaction>2021/01/21 01:38:09.000.010,=C:\Projetos\DroneDeliveryService\Unit1.pas</Transaction>
+    <Transaction>2021/01/21 01:38:18.000.649,C:\Projetos\DroneDeliveryService\Unit1.dfm=C:\Projetos\DroneDeliveryService\uExample.dfm</Transaction>
+    <Transaction>2021/01/21 01:38:18.000.649,C:\Projetos\DroneDeliveryService\Unit1.pas=C:\Projetos\DroneDeliveryService\uExample.pas</Transaction>
+  </Transactions>
+</BorlandProject>

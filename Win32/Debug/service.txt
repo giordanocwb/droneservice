@@ -1,0 +1,15 @@
+Drone A, 4, Drone B, 6, Drone C, 5.5, Drone D, 1, Drone E, 2, Drone F, 2, Drone G, 1
+Location A, 0.5
+Location B, 1
+Location C, 1.5
+Location D, 2
+Location E, 2.5
+Location F, 3
+Location G, 3.5
+Location H, 4
+Location I, 4.5
+Location J, 5
+Location K, 5.5
+Location L, 6
+Location M, 7
+Location N, 8
